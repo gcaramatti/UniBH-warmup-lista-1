@@ -1,6 +1,6 @@
-UNIBH - Professor Otaviano 
+UNIBH - Professor Otaviano<br>
 Lista 1 Warmup
 
-Alunos: 
-Filipe Morais - RA: 119121147
+Alunos: <br>
+Filipe Morais - RA: 119121147<br>
 Gabriel Caramatti - RA: 119123232
